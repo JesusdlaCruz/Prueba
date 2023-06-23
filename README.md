@@ -31,8 +31,8 @@ npm run dev
 localhost:3000/api/station/{id}
 ```
 3. El resultado se mostrará de la siguiente manera:
-![Resultado](./media/resultado1.png)
-![Resultado](./media/resultado2.png)
-![Resultado](./media/resultado3.png)
+![Resultado1](./media/resultado1.png)
+![Resultado2](./media/resultado2.png)
+![Resultado3](./media/resultado3.png)
 
 Si tienes alguna duda, no dudes en enviar un correo a ju605385@gmail.com.
