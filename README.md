@@ -10,11 +10,11 @@
 1. Clonar el proyecto:
 
 ```bash
-git clone https://sdsdsdd
+git clone https://github.com/JesusdlaCruz/Prueba.git
 ```
 2. Moverse hacia el directorio del proyecto:
 ```bash
-cd ProjectName
+cd Prueba
 ```
 3. Instalar las dependencias:
 ```bash
@@ -26,10 +26,13 @@ npm install
 ```bash
 npm run dev
 ```
-2. Abrir un navegador web o un cliente HTTP e ingresar la siguiente ruta:
+2. Abrir un navegador web o un cliente REST e ingresar la siguiente ruta:
 ```bash
-localhost:3000/
+localhost:3000/api/station/{id}
 ```
-3. El resultado se mostrará en la página.
+3. El resultado se mostrará de la siguiente manera:
+![Resultado](./media/resultado1.png)
+![Resultado](./media/resultado2.png)
+![Resultado](./media/resultado3.png)
 
 Si tienes alguna duda, no dudes en enviar un correo a ju605385@gmail.com.
